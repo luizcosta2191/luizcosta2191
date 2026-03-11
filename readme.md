@@ -1,8 +1,7 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=120&section=header&text=Infrastructure%20%7C%20Cloud%20%7C%20DevOps&fontSize=30&fontColor=fff)
 
 <div align="center">
+
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -102,7 +101,7 @@ With a degree in Systems Analysis and Development and a specialization in Networ
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizcosta2191)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcosta2191@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizcosta2191)
 
 </div>
@@ -110,6 +109,7 @@ With a degree in Systems Analysis and Development and a specialization in Networ
 ---
 
 <div align="center">
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=luizcosta2191&color=FF9900&style=for-the-badge)
 
