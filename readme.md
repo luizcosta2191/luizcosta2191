@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=120&section=header&text=Infrastructure%20%7C%20Cloud%20%7C%20DevOps&fontSize=30&fontColor=fff)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=120&section=header&text=Infrastructure%20%7C%20Cloud%20%7C%20DevOps&fontSize=30&fontColor=fff)
 
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
