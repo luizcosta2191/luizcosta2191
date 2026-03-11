@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=120&section=header&text=Infrastructure%20%7C%20Cloud%20%7C%20DevOps&fontSize=30&fontColor=fff)
+<img width="1290" height="322" alt="github_banner" src="https://github.com/user-attachments/assets/bbeae1bd-7b53-4b38-bf3e-568302fcd707" />
+
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
