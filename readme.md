@@ -11,8 +11,6 @@
 
 # 💻 Infraestrutura | Cloud | DevOps
 
-*Automatizando infraestrutura, escalando sistemas, entregando confiabilidade.*
-
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Cloud](https://img.shields.io/badge/Cloud-Computing-0078D4?style=for-the-badge&logo=icloud&logoColor=white)]()
@@ -28,7 +26,7 @@ Sou um profissional de tecnologia com trajetória sólida na sustentação de am
 Com formação em Análise e Desenvolvimento de Sistemas e especialização em Projeto de Redes e Computação em Nuvem, atuo na intersecção entre o desenvolvimento e as operações. Acredito que a infraestrutura deve ser tratada como software: versionada, testada e automatizada.
 
 * Automação: Experiência em orquestração com Ansible e automação de workflows (low-code e scripts).
-* Cloud Computing: Especialista em ecossistemas AWS (Certified Cloud Practitioner).
+* Cloud Computing: Foco em ecossistemas AWS.
 * Observabilidade: Foco em monitoramento preventivo de ambientes de alta disponibilidade e performance.
 
 ---
