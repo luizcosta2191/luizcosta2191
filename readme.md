@@ -1,15 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=120&section=header&text=Infrastructure%20%7C%20Cloud%20%7C%20DevOps&fontSize=30&fontColor=fff)
+
 <div align="center">
-
-```
-██╗███╗   ██╗███████╗██████╗  █████╗     ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗
-██║████╗  ██║██╔════╝██╔══██╗██╔══██╗    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-██║██╔██╗ ██║█████╗  ██████╔╝███████║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-██║██║╚██╗██║██╔══╝  ██╔══██╗██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-██║██║ ╚████║██║     ██║  ██║██║  ██║    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-# 💻 Infraestrutura | Cloud | DevOps
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -20,55 +11,55 @@
 
 ---
 
-## 🧑‍🔧 Sobre mim
-Sou um profissional de tecnologia com trajetória sólida na sustentação de ambientes críticos e na modernização de infraestruturas tecnológicas. Meu foco principal é a convergência entre **Infraestrutura Tradicional** e a **Cultura DevOps**, transformando processos manuais em fluxos automatizados, escaláveis e seguros.
+## 🧑‍🔧 About Me
+I'm a technology professional with a solid background in supporting critical environments and modernizing technological infrastructure. My main focus is the convergence between **Traditional Infrastructure** and **DevOps Culture**, transforming manual processes into automated, scalable, and secure workflows.
 
-Com formação em Análise e Desenvolvimento de Sistemas e especialização em Projeto de Redes e Computação em Nuvem, atuo na intersecção entre o desenvolvimento e as operações. Acredito que a infraestrutura deve ser tratada como software: versionada, testada e automatizada.
+With a degree in Systems Analysis and Development and a specialization in Network Design and Cloud Computing, I work at the intersection of development and operations. I believe infrastructure should be treated as software: versioned, tested, and automated.
 
-* Automação: Experiência em orquestração com Ansible e automação de workflows (low-code e scripts).
-* Cloud Computing: Foco em ecossistemas AWS.
-* Observabilidade: Foco em monitoramento preventivo de ambientes de alta disponibilidade e performance.
+* **Automation:** Experience in orchestration with Ansible and workflow automation (low-code and scripts).
+* **Cloud Computing:** Focused on AWS ecosystems.
+* **Observability:** Focused on proactive monitoring of high-availability and high-performance environments.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
-### ☁️ Cloud & Virtualização
+### ☁️ Cloud & Virtualization
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
-### 🐳 Containers & Orquestração
+### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### ⚙️ IaC & Automação
+### ⚙️ IaC & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🐧 Sistemas & Scripting
+### 🐧 Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Monitoramento & Observabilidade
+### 📊 Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certifications
 
 <div align="center">
 
-| Certificação | Emissor | Status |
+| Certification | Issuer | Status |
 |---|---|---|
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Obtida |
-| 🔶 Oracle Cloud Infrastructure Foundations Associate | Oracle | ✅ Obtida |
-| 🎓 Cloud Fundamentals, Administration and Solution Architect | FIAP | ✅ Concluída |
-| 🔄 DevOps & Agile Culture | FIAP | ✅ Concluída |
-| 🛠️ Formação DevOps | Alura | ✅ Concluída |
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Achieved |
+| 🔶 Oracle Cloud Infrastructure Foundations Associate | Oracle | ✅ Achieved |
+| 🎓 Cloud Fundamentals, Administration and Solution Architect | FIAP | ✅ Completed |
+| 🔄 DevOps & Agile Culture | FIAP | ✅ Completed |
+| 🛠️ DevOps Training | Alura | ✅ Completed |
 
 </div>
 
@@ -86,25 +77,25 @@ Com formação em Análise e Desenvolvimento de Sistemas e especialização em P
 
 ---
 
-## 🚀 Áreas de Atuação
+## 🚀 Areas of Expertise
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   🔧  Provisionamento e Gestão de Infraestrutura            │
-│   🔄  CI/CD e Automação de Pipelines                        │
-│   📦  Containerização e Orquestração de Workloads           │
-│   🛡️  Segurança e Hardening de Ambientes Linux              │
-│   📊  Monitoramento, Alertas e Dashboards                   │
-│   ☁️  Arquitetura e Serviços AWS                            │
-│   📜  Scripts de Automação com Bash e Python                │
+│   🔧  Infrastructure Provisioning & Management             │
+│   🔄  CI/CD and Pipeline Automation                         │
+│   📦  Containerization and Workload Orchestration           │
+│   🛡️  Security and Linux Environment Hardening             │
+│   📊  Monitoring, Alerting and Dashboards                   │
+│   ☁️  AWS Architecture and Services                         │
+│   📜  Automation Scripts with Bash and Python               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -115,3 +106,9 @@ Com formação em Análise e Desenvolvimento de Sistemas e especialização em P
 </div>
 
 ---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=luizcosta2191&color=FF9900&style=for-the-badge)
+
+</div>
