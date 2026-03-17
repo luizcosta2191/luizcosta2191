@@ -4,7 +4,7 @@
 
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Cloud](https://img.shields.io/badge/Cloud-Computing-0078D4?style=for-the-badge&logo=icloud&logoColor=white)]()
 [![DevOps](https://img.shields.io/badge/DevOps-Engineer-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white)]()
 
