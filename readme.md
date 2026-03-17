@@ -66,18 +66,6 @@ With a degree in Systems Analysis and Development and a specialization in Networ
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizcosta2191&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcosta2191&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900)
-
-</div>
-
----
-
 ## 🚀 Areas of Expertise
 
 🔧  Infrastructure Provisioning & Management             
